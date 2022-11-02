@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/id_Frag1"
+        android:icon="@drawable/i1"
+        android:title="@string/f1" />
+    <item
+        android:id="@+id/id_Frag2"
+        android:icon="@drawable/i2"
+        android:title="@string/f2" />
+    <item
+        android:id="@+id/id_Frag3"
+        android:icon="@drawable/i3"
+        android:title="@string/f3" />
+    <item
+        android:id="@+id/id_Frag4"
+        android:icon="@drawable/i4"
+        android:title="@string/f4" />
+</menu>
